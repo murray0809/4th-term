@@ -22,9 +22,7 @@ ScriptsOnlyBuild:
     - CinemachineShot
     - CinemachineTrack
     Unity.Timeline.Editor.dll:
-    - UnityEditor.Timeline.AnimationPlayableAssetInspector
     - UnityEditor.Timeline.SequenceHierarchy
-    - UnityEditor.Timeline.TimelineAssetViewModel
     - UnityEditor.Timeline.TimelineWindow
     Unity.Timeline.dll:
     - UnityEngine.Timeline.AnimationPlayableAsset
@@ -41,8 +39,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
-    com.unity.cinemachine.editor.dll:
-    - CinemachineShotEditor
   sceneClasses:
     Assets/Scenes/FPSBuild.unity:
     - Class: 1
@@ -1701,4 +1697,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/FPSBuild.unity
   - Assets/Scenes/TPSResultBuild.unity
   - Assets/Scenes/FPSResultBuild.unity
-  playerPath: "C:/Users/vantan/Desktop/\u7B2C4\u30BF\u30FC\u30E0\uFF12/\u7B2C4\u30BF\u30FC\u30E0\u3000\u5BE9\u67FB\u4F1A.exe"
+  playerPath: "C:/Users/vantan/Desktop/PS19C_\u5409\u5DDD\u667A\u6D69/\u7B2C4\u30BF\u30FC\u30E0\u3000\u5BE9\u67FB\u4F1A.exe"
